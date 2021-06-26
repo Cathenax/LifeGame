@@ -1,0 +1,464 @@
+LifeGame/src/Graph/Graph.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Graph/Graph.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Graph/Graph.java:4:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Graph/Graph.java:4:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Graph/Graph.java:4:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Graph/Graph.java:4:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Graph/Graph.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Graph/Graph.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Graph/Graph.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logic field if you want a default access modifier
+LifeGame/src/Graph/Graph.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logic field if you want a default access modifier
+LifeGame/src/Graph/Graph.java:5:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:5:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:5:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Graph/Graph.java:5:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Graph/Graph.java:6:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:6:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:7:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:7:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:8:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:8:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/Graph.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'height' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'height' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'width' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'width' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:22:	MethodReturnsInternalArray:	MethodReturnsInternalArray: Returning 'matrix' may expose an internal array.
+LifeGame/src/Graph/Graph.java:22:	MethodReturnsInternalArray:	MethodReturnsInternalArray: Returning 'matrix' may expose an internal array.
+LifeGame/src/Graph/Graph.java:24:	ArrayIsStoredDirectly:	ArrayIsStoredDirectly: The user-supplied array 'matrix' is stored directly.
+LifeGame/src/Graph/Graph.java:24:	ArrayIsStoredDirectly:	ArrayIsStoredDirectly: The user-supplied array 'matrix' is stored directly.
+LifeGame/src/Graph/Graph.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'matrix' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'matrix' is not assigned and could be declared final
+LifeGame/src/Graph/Graph.java:24:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+LifeGame/src/Graph/Graph.java:24:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+LifeGame/src/Graph/Graph.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/Graph.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/Graph.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/Graph.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/Graph.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/Graph.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Graph/GraphTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Graph/GraphTest.java:4:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assume.assumeNotNull'
+LifeGame/src/Graph/GraphTest.java:4:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assume.assumeNotNull'
+LifeGame/src/Graph/GraphTest.java:4:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assume.assumeNotNull'
+LifeGame/src/Graph/GraphTest.java:4:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assume.assumeNotNull'
+LifeGame/src/Graph/GraphTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Graph/GraphTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Graph/GraphTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Graph/GraphTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Graph/GraphTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Graph/GraphTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Graph/GraphTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/GraphTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Graph/GraphTest.java:13:	ImmutableField:	ImmutableField: Private field 'graph' could be made final; it is only initialized in the declaration or constructor.
+LifeGame/src/Graph/GraphTest.java:13:	ImmutableField:	ImmutableField: Private field 'graph' could be made final; it is only initialized in the declaration or constructor.
+LifeGame/src/Graph/GraphTest.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:15:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Graph/GraphTest.java:15:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Graph/GraphTest.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:20:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:20:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:26:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:26:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:32:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertNotNull' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:32:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertNotNull' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+LifeGame/src/Graph/GraphTest.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+LifeGame/src/Graph/GraphTest.java:44:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:44:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:52:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:52:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:55:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:55:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Graph/GraphTest.java:58:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Graph/GraphTest.java:58:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Logic/Logic.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Logic/Logic.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Logic/Logic.java:8:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Logic/Logic.java:8:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Logic/Logic.java:8:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Logic/Logic.java:8:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Logic/Logic.java:10:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/Logic.java:10:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/Logic.java:11:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/Logic.java:11:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/Logic.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'height' could be declared final
+LifeGame/src/Logic/Logic.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'height' could be declared final
+LifeGame/src/Logic/Logic.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'width' could be declared final
+LifeGame/src/Logic/Logic.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'width' could be declared final
+LifeGame/src/Logic/Logic.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Logic/Logic.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Logic/Logic.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '23'-'27').
+LifeGame/src/Logic/Logic.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '23'-'27').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'27').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'27').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'31').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'31').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'35').
+LifeGame/src/Logic/Logic.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '27'-'35').
+LifeGame/src/Logic/Logic.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nearNum' could be declared final
+LifeGame/src/Logic/Logic.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nearNum' could be declared final
+LifeGame/src/Logic/Logic.java:30:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Logic/Logic.java:30:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Logic/Logic.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '31'-'27').
+LifeGame/src/Logic/Logic.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '31'-'27').
+LifeGame/src/Logic/Logic.java:34:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Logic/Logic.java:34:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Logic/Logic.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '35'-'27').
+LifeGame/src/Logic/Logic.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nextMatrix' (lines '35'-'27').
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'matrix' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'matrix' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:51:	NPathComplexity:	NPathComplexity: The method 'findLifedNum(int, int, int, Graph)' has an NPath complexity of 1296, current threshold is 200
+LifeGame/src/Logic/Logic.java:51:	NPathComplexity:	NPathComplexity: The method 'findLifedNum(int, int, int, Graph)' has an NPath complexity of 1296, current threshold is 200
+LifeGame/src/Logic/Logic.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+LifeGame/src/Logic/Logic.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like x
+LifeGame/src/Logic/Logic.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like y
+LifeGame/src/Logic/Logic.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like y
+LifeGame/src/Logic/Logic.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'graph' is not assigned and could be declared final
+LifeGame/src/Logic/Logic.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'height' could be declared final
+LifeGame/src/Logic/Logic.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'height' could be declared final
+LifeGame/src/Logic/Logic.java:94:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'width' (lines '94'-'108').
+LifeGame/src/Logic/Logic.java:94:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'width' (lines '94'-'108').
+LifeGame/src/Logic/Logic.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'width' could be declared final
+LifeGame/src/Logic/Logic.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'width' could be declared final
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '95'-'102').
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '95'-'102').
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '95'-'104').
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '95'-'104').
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '95'-'108').
+LifeGame/src/Logic/Logic.java:95:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '95'-'108').
+LifeGame/src/Logic/Logic.java:96:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'random' (lines '96'-'108').
+LifeGame/src/Logic/Logic.java:96:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'random' (lines '96'-'108').
+LifeGame/src/Logic/Logic.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+LifeGame/src/Logic/Logic.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '102'-'102').
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '102'-'102').
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '102'-'104').
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '102'-'104').
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '102'-'108').
+LifeGame/src/Logic/Logic.java:102:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '102'-'108').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '104'-'102').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '104'-'102').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '104'-'104').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'matrix' (lines '104'-'104').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '104'-'108').
+LifeGame/src/Logic/Logic.java:104:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'matrix' (lines '104'-'108').
+LifeGame/src/Logic/LogicTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Logic/LogicTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Logic/LogicTest.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assert.*'
+LifeGame/src/Logic/LogicTest.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assert.*'
+LifeGame/src/Logic/LogicTest.java:3:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assert.*'
+LifeGame/src/Logic/LogicTest.java:3:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assert.*'
+LifeGame/src/Logic/LogicTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Logic/LogicTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Logic/LogicTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Logic/LogicTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Logic/LogicTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Logic/LogicTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Logic/LogicTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logic field if you want a default access modifier
+LifeGame/src/Logic/LogicTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logic field if you want a default access modifier
+LifeGame/src/Logic/LogicTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/LogicTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Logic/LogicTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Logic/LogicTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Logic/LogicTest.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Logic/LogicTest.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Logic/LogicTest.java:15:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Logic/LogicTest.java:15:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Logic/LogicTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Logic/LogicTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Logic/LogicTest.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'graph' could be declared final
+LifeGame/src/Logic/LogicTest.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'graph' could be declared final
+LifeGame/src/Logic/LogicTest.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Logic/LogicTest.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Logic/LogicTest.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+LifeGame/src/Logic/LogicTest.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+LifeGame/src/Logic/LogicTest.java:26:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Logic/LogicTest.java:26:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Ui/Ui.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Ui/Ui.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Ui/Ui.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/Ui.java:11:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/Ui.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+LifeGame/src/Ui/Ui.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+LifeGame/src/Ui/Ui.java:11:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Ui' has a Modified Cyclomatic Complexity of 3 (Highest = 14).
+LifeGame/src/Ui/Ui.java:11:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Ui' has a Modified Cyclomatic Complexity of 3 (Highest = 14).
+LifeGame/src/Ui/Ui.java:11:	ShortClassName:	ShortClassName: Avoid short class names like Ui
+LifeGame/src/Ui/Ui.java:11:	ShortClassName:	ShortClassName: Avoid short class names like Ui
+LifeGame/src/Ui/Ui.java:12:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:12:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:12:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'frame'.
+LifeGame/src/Ui/Ui.java:12:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'frame'.
+LifeGame/src/Ui/Ui.java:14:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:14:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'maxLength'
+LifeGame/src/Ui/Ui.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'maxLength'
+LifeGame/src/Ui/Ui.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'maxWidth'
+LifeGame/src/Ui/Ui.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'maxWidth'
+LifeGame/src/Ui/Ui.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the nGrid field if you want a default access modifier
+LifeGame/src/Ui/Ui.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the nGrid field if you want a default access modifier
+LifeGame/src/Ui/Ui.java:15:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:15:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/Ui.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/Ui.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:16:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:16:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:16:	SingularField:	SingularField: Perhaps 'isSelected' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:16:	SingularField:	SingularField: Perhaps 'isSelected' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:16:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isSelected'.
+LifeGame/src/Ui/Ui.java:16:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isSelected'.
+LifeGame/src/Ui/Ui.java:17:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:17:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:17:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'jbNowGeneration'.
+LifeGame/src/Ui/Ui.java:17:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'jbNowGeneration'.
+LifeGame/src/Ui/Ui.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:18:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:18:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:18:	SingularField:	SingularField: Perhaps 'start' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:18:	SingularField:	SingularField: Perhaps 'start' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:19:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:19:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:19:	SingularField:	SingularField: Perhaps 'lengthList' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:19:	SingularField:	SingularField: Perhaps 'lengthList' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:19:	SingularField:	SingularField: Perhaps 'widthList' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:19:	SingularField:	SingularField: Perhaps 'widthList' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:20:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:20:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:20:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isRunning'.
+LifeGame/src/Ui/Ui.java:20:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isRunning'.
+LifeGame/src/Ui/Ui.java:22:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:22:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:22:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isDead'.
+LifeGame/src/Ui/Ui.java:22:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'isDead'.
+LifeGame/src/Ui/Ui.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:23:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:23:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:24:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:24:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:24:	SingularField:	SingularField: Perhaps 'btnNewButton' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:24:	SingularField:	SingularField: Perhaps 'btnNewButton' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:25:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:25:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:25:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:25:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:25:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:25:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:25:	ImmutableField:	ImmutableField: Private field 'time' could be made final; it is only initialized in the declaration or constructor.
+LifeGame/src/Ui/Ui.java:25:	ImmutableField:	ImmutableField: Private field 'time' could be made final; it is only initialized in the declaration or constructor.
+LifeGame/src/Ui/Ui.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:27:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:27:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:27:	SingularField:	SingularField: Perhaps 'btnNewButton_1' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:27:	SingularField:	SingularField: Perhaps 'btnNewButton_1' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:28:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:28:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:28:	SingularField:	SingularField: Perhaps 'btnNewButton_2' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:28:	SingularField:	SingularField: Perhaps 'btnNewButton_2' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:29:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:29:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:29:	SingularField:	SingularField: Perhaps 'btnNewButton_3' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:29:	SingularField:	SingularField: Perhaps 'btnNewButton_3' could be replaced by a local variable.
+LifeGame/src/Ui/Ui.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'maxWidth' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'maxLength' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:51:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+LifeGame/src/Ui/Ui.java:51:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+LifeGame/src/Ui/Ui.java:51:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 14.
+LifeGame/src/Ui/Ui.java:51:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'initGUI' has a Modified Cyclomatic Complexity of 14.
+LifeGame/src/Ui/Ui.java:82:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/Ui.java:82:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/Ui.java:88:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/Ui.java:88:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/Ui.java:101:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:101:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:101:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:101:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:101:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:101:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:101:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:101:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:111:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:111:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:111:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:111:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:111:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:111:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:122:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:122:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:122:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:122:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:122:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:122:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:131:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:131:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:131:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:131:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:131:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:131:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:131:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:131:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:147:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:147:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:147:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:147:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:147:	MissingOverride:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:147:	MissingOverride:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:147:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:147:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:148:	DoNotTerminateVM:	DoNotTerminateVM: System.exit() should not be used in J2EE/JEE apps
+LifeGame/src/Ui/Ui.java:148:	DoNotTerminateVM:	DoNotTerminateVM: System.exit() should not be used in J2EE/JEE apps
+LifeGame/src/Ui/Ui.java:160:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:160:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:160:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:160:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:162:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+LifeGame/src/Ui/Ui.java:162:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+LifeGame/src/Ui/Ui.java:165:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:165:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:165:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:165:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+LifeGame/src/Ui/Ui.java:165:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:165:	MissingOverride:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+LifeGame/src/Ui/Ui.java:165:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:165:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+LifeGame/src/Ui/Ui.java:178:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Ui/Ui.java:178:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Ui/Ui.java:178:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/Ui.java:178:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/Ui.java:178:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:178:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+LifeGame/src/Ui/Ui.java:178:	ShortClassName:	ShortClassName: Avoid short class names like Time
+LifeGame/src/Ui/Ui.java:178:	ShortClassName:	ShortClassName: Avoid short class names like Time
+LifeGame/src/Ui/Ui.java:183:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:183:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:183:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:183:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:185:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:185:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/Ui.java:185:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:185:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/Ui.java:185:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'pause'
+LifeGame/src/Ui/Ui.java:185:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'pause'
+LifeGame/src/Ui/Ui.java:189:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the onPause method if you want a default access modifier
+LifeGame/src/Ui/Ui.java:189:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the onPause method if you want a default access modifier
+LifeGame/src/Ui/Ui.java:189:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/Ui.java:189:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/Ui.java:195:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+LifeGame/src/Ui/Ui.java:195:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+LifeGame/src/Ui/Ui.java:205:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:205:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:209:	UseNotifyAllInsteadOfNotify:	UseNotifyAllInsteadOfNotify: Call Thread.notifyAll() rather than Thread.notify()
+LifeGame/src/Ui/Ui.java:209:	UseNotifyAllInsteadOfNotify:	UseNotifyAllInsteadOfNotify: Call Thread.notifyAll() rather than Thread.notify()
+LifeGame/src/Ui/Ui.java:223:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+LifeGame/src/Ui/Ui.java:223:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+LifeGame/src/Ui/Ui.java:225:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+LifeGame/src/Ui/Ui.java:225:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+LifeGame/src/Ui/Ui.java:232:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:232:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/Ui.java:234:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+LifeGame/src/Ui/Ui.java:234:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '234'-'244').
+LifeGame/src/Ui/Ui.java:234:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+LifeGame/src/Ui/Ui.java:234:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+LifeGame/src/Ui/Ui.java:237:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Ui/Ui.java:237:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Ui/UiTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Ui/UiTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+LifeGame/src/Ui/UiTest.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:3:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:3:	UnusedImports:	UnusedImports: Unused import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'javax.swing.JButton'
+LifeGame/src/Ui/UiTest.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'javax.swing.JButton'
+LifeGame/src/Ui/UiTest.java:7:	UnusedImports:	UnusedImports: Unused import 'javax.swing.JButton'
+LifeGame/src/Ui/UiTest.java:7:	UnusedImports:	UnusedImports: Unused import 'javax.swing.JButton'
+LifeGame/src/Ui/UiTest.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Ui/UiTest.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+LifeGame/src/Ui/UiTest.java:15:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/UiTest.java:15:	CommentRequired:	CommentRequired: Class comments are required
+LifeGame/src/Ui/UiTest.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/UiTest.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+LifeGame/src/Ui/UiTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ui field if you want a default access modifier
+LifeGame/src/Ui/UiTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ui field if you want a default access modifier
+LifeGame/src/Ui/UiTest.java:17:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/UiTest.java:17:	CommentRequired:	CommentRequired: Field comments are required
+LifeGame/src/Ui/UiTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/UiTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+LifeGame/src/Ui/UiTest.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like ui
+LifeGame/src/Ui/UiTest.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like ui
+LifeGame/src/Ui/UiTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/UiTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/UiTest.java:19:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Ui/UiTest.java:19:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+LifeGame/src/Ui/UiTest.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/UiTest.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+LifeGame/src/Ui/UiTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'graph' could be declared final
+LifeGame/src/Ui/UiTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'graph' could be declared final
+LifeGame/src/Ui/UiTest.java:25:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+LifeGame/src/Ui/UiTest.java:25:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+LifeGame/src/Ui/UiTest.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Ui/UiTest.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+LifeGame/src/Ui/UiTest.java:33:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/UiTest.java:33:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/UiTest.java:33:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:33:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:34:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Ui/UiTest.java:34:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+LifeGame/src/Ui/UiTest.java:35:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/UiTest.java:35:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+LifeGame/src/Ui/UiTest.java:35:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+LifeGame/src/Ui/UiTest.java:35:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
